@@ -93,7 +93,7 @@ write (man 2 write)
 * ### **simple_shell_manual:** ### 
 man page for simple shell project
 
-* ### **main.h:** ###
+* ### **shell.h:** ###
 Header file for simple shell program
 
 * ### **shell.c:** ###
